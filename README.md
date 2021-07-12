@@ -1,7 +1,5 @@
 # About
-This is a simple logo detector showcasing the ORB algorithm in OpenCV for Python. See related [blog post](https://ai-facets.org/robust-logo-detection-with-opencv/).
+This is a simple logo detector showcasing the surf algorithm in OpenCV for Python. .
 
 # Installation
-```
-pipenv install
-```
+opencv 3.4.2
